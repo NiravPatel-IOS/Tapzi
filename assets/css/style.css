@@ -636,7 +636,7 @@ section {
   color: #56399D;
 }
 .features .feature-icons {
-  margin-top: 120px;
+  /*margin-top: 120px;*/
 }
 .features .feature-icons h3 {
   color: #56399D;
@@ -1192,6 +1192,9 @@ section {
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
+.team-div {
+  margin: 0 auto;
+}
 .team {
   background: #fff;
   padding: 60px 0;
